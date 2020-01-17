@@ -8,12 +8,21 @@ A new Scale Invariant Fully Convolutional Network (SIFCN) trained in an end-to-e
 ### Citation
 If you use our code or models, please cite our paper.  
 
-	@article{liu2019scale,
-      title={Scale Invariant Fully Convolutional Network: Detecting Hands Efficiently},
-      author={Liu, Dan and Du, Dawei and Zhang, Libo and Luo, Tiejian and Wu, Yanjun and Huang, Feiyue and Lyu, Siwei},
-      journal={arXiv preprint arXiv:1906.04634},
-      year={2019}
+	@inproceedings{DBLP:conf/aaai/LiuDZLWHL19,
+      author    = {Dan Liu and
+                   Dawei Du and
+                   Libo Zhang and
+                   Tiejian Luo and
+                   Yanjun Wu and
+                   Feiyue Huang and
+                   Siwei Lyu},
+      title     = {Scale Invariant Fully Convolutional Network: Detecting Hands Efficiently},
+      booktitle = {The Thirty-Third {AAAI} Conference on Artificial Intelligence},
+      pages     = {4344--4351},
+      year      = {2019},
+      doi       = {10.1609/aaai.v33i01.33014344}
     }
+
 
 Decription of files
 -----
